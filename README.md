@@ -7,8 +7,6 @@
 
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/19CqTnsiMG7UfEmYEZS70ogZfu0yrkaTI/view?usp=drive_link)
 
-- 🔭 I’m currently working on **Medcore**
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **MERN Stack**
