@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreeraj003&label=Profile%20views&color=0e75b6&style=flat" alt="sreeraj003" /> </p>
 
-- 📝 Checkout my [Resume]([https://drive.google.com/file/d/19CqTnsiMG7UfEmYEZS70ogZfu0yrkaTI/view?usp=drive_link](https://drive.google.com/file/d/1NQLfeNAUSWpaSlefEjc4SJIzktU2SozN/view?usp=drive_link))
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1NQLfeNAUSWpaSlefEjc4SJIzktU2SozN/view?usp=drive_link)
 
 - 🌱 I’m currently learning **MERN Stack**
 
